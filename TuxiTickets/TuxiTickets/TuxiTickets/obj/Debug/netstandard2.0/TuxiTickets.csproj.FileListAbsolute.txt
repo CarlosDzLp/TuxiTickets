@@ -1,0 +1,11 @@
+C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\bin\Debug\netstandard2.0\TuxiTickets.deps.json
+C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\bin\Debug\netstandard2.0\TuxiTickets.dll
+C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\bin\Debug\netstandard2.0\TuxiTickets.pdb
+C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\Views\Session\LoginPage.xaml.g.cs
+C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\TuxiTickets.csproj.CoreCompileInputs.cache
+C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\TuxiTickets.AssemblyInfoInputs.cache
+C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\TuxiTickets.AssemblyInfo.cs
+C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\TuxiTickets.dll
+C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\TuxiTickets.pdb
