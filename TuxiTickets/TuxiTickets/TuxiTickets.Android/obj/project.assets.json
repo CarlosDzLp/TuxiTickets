@@ -470,7 +470,7 @@
           "build/MonoAndroid81/Xamarin.Android.Support.Vector.Drawable.targets": {}
         }
       },
-      "Xamarin.Forms/3.3.0.967583": {
+      "Xamarin.Forms/3.6.0.264807": {
         "type": "package",
         "dependencies": {
           "Xamarin.Android.Support.Design": "27.0.2",
@@ -480,18 +480,18 @@
           "Xamarin.Android.Support.v7.MediaRouter": "27.0.2"
         },
         "compile": {
-          "lib/MonoAndroid10/FormsViewGroup.dll": {},
-          "lib/MonoAndroid10/Xamarin.Forms.Core.dll": {},
-          "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll": {},
-          "lib/MonoAndroid10/Xamarin.Forms.Platform.dll": {},
-          "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll": {}
+          "lib/MonoAndroid81/FormsViewGroup.dll": {},
+          "lib/MonoAndroid81/Xamarin.Forms.Core.dll": {},
+          "lib/MonoAndroid81/Xamarin.Forms.Platform.Android.dll": {},
+          "lib/MonoAndroid81/Xamarin.Forms.Platform.dll": {},
+          "lib/MonoAndroid81/Xamarin.Forms.Xaml.dll": {}
         },
         "runtime": {
-          "lib/MonoAndroid10/FormsViewGroup.dll": {},
-          "lib/MonoAndroid10/Xamarin.Forms.Core.dll": {},
-          "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll": {},
-          "lib/MonoAndroid10/Xamarin.Forms.Platform.dll": {},
-          "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll": {}
+          "lib/MonoAndroid81/FormsViewGroup.dll": {},
+          "lib/MonoAndroid81/Xamarin.Forms.Core.dll": {},
+          "lib/MonoAndroid81/Xamarin.Forms.Platform.Android.dll": {},
+          "lib/MonoAndroid81/Xamarin.Forms.Platform.dll": {},
+          "lib/MonoAndroid81/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
           "build/Xamarin.Forms.props": {},
@@ -508,7 +508,7 @@
           "Xam.Plugin.Geolocator": "4.5.0.6",
           "Xam.Plugins.Notifier": "3.0.1",
           "Xam.Plugins.Vibrate": "4.0.0.5",
-          "Xamarin.Forms": "3.3.0.967583",
+          "Xamarin.Forms": "3.6.0.264807",
           "sqlite-net-pcl": "1.5.231"
         },
         "compile": {
@@ -1140,25 +1140,25 @@
         "xamarin.android.support.vector.drawable.nuspec"
       ]
     },
-    "Xamarin.Forms/3.3.0.967583": {
-      "sha512": "aebAEUHkER6WRo4WpsDd8jq4EudSl3WS4n7Pxcq8ea+x9fHi9PstCU0dU2D5PGvSeKa3yEFSpRljOEjI7qtsNA==",
+    "Xamarin.Forms/3.6.0.264807": {
+      "sha512": "T7gYS3PoGNtp6D7GAX7fF4QzR7NC36NNQSiuEb5TXO8rEqkZGwpC4u/6S62rH0wL3dabWNVpJPPnL5jZvWeoVg==",
       "type": "package",
-      "path": "xamarin.forms/3.3.0.967583",
+      "path": "xamarin.forms/3.6.0.264807",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
+        "build/MonoAndroid10/proguard.cfg",
         "build/Xamarin.Forms.DefaultItems.props",
         "build/Xamarin.Forms.DefaultItems.targets",
         "build/Xamarin.Forms.props",
         "build/Xamarin.Forms.targets",
-        "build/net461/Mono.Cecil.Mdb.dll",
-        "build/net461/Mono.Cecil.Pdb.dll",
-        "build/net461/Mono.Cecil.Rocks.dll",
-        "build/net461/Mono.Cecil.dll",
-        "build/net461/System.CodeDom.dll",
-        "build/net461/Xamarin.Forms.Build.Tasks.dll",
-        "build/net461/Xamarin.Forms.Core.dll",
-        "build/net461/Xamarin.Forms.Xaml.dll",
+        "build/net46/Mono.Cecil.Mdb.dll",
+        "build/net46/Mono.Cecil.Pdb.dll",
+        "build/net46/Mono.Cecil.Rocks.dll",
+        "build/net46/Mono.Cecil.dll",
+        "build/net46/System.ValueTuple.dll",
+        "build/net46/Xamarin.Forms.Build.Tasks.dll",
+        "build/net46/Xamarin.Forms.Core.dll",
+        "build/net46/Xamarin.Forms.Xaml.dll",
         "build/netstandard2.0/Mono.Cecil.Mdb.dll",
         "build/netstandard2.0/Mono.Cecil.Pdb.dll",
         "build/netstandard2.0/Mono.Cecil.Rocks.dll",
@@ -1167,21 +1167,32 @@
         "build/netstandard2.0/Xamarin.Forms.Build.Tasks.dll",
         "build/netstandard2.0/Xamarin.Forms.Core.dll",
         "build/netstandard2.0/Xamarin.Forms.Xaml.dll",
-        "lib/MonoAndroid10/Design/Xamarin.Forms.Core.Design.dll",
-        "lib/MonoAndroid10/Design/Xamarin.Forms.Xaml.Design.dll",
-        "lib/MonoAndroid10/FormsViewGroup.dll",
-        "lib/MonoAndroid10/FormsViewGroup.dll.mdb",
-        "lib/MonoAndroid10/FormsViewGroup.pdb",
-        "lib/MonoAndroid10/Xamarin.Forms.Core.dll",
-        "lib/MonoAndroid10/Xamarin.Forms.Core.pdb",
-        "lib/MonoAndroid10/Xamarin.Forms.Core.xml",
-        "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll",
-        "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll.mdb",
-        "lib/MonoAndroid10/Xamarin.Forms.Platform.Android.pdb",
-        "lib/MonoAndroid10/Xamarin.Forms.Platform.dll",
-        "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll",
-        "lib/MonoAndroid10/Xamarin.Forms.Xaml.pdb",
-        "lib/MonoAndroid10/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid81/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/MonoAndroid81/Design/Xamarin.Forms.Xaml.Design.dll",
+        "lib/MonoAndroid81/FormsViewGroup.dll",
+        "lib/MonoAndroid81/FormsViewGroup.pdb",
+        "lib/MonoAndroid81/Xamarin.Forms.Core.dll",
+        "lib/MonoAndroid81/Xamarin.Forms.Core.pdb",
+        "lib/MonoAndroid81/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid81/Xamarin.Forms.Platform.Android.dll",
+        "lib/MonoAndroid81/Xamarin.Forms.Platform.Android.pdb",
+        "lib/MonoAndroid81/Xamarin.Forms.Platform.dll",
+        "lib/MonoAndroid81/Xamarin.Forms.Xaml.dll",
+        "lib/MonoAndroid81/Xamarin.Forms.Xaml.pdb",
+        "lib/MonoAndroid81/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/Design/Xamarin.Forms.Core.Design.dll",
+        "lib/MonoAndroid90/Design/Xamarin.Forms.Xaml.Design.dll",
+        "lib/MonoAndroid90/FormsViewGroup.dll",
+        "lib/MonoAndroid90/FormsViewGroup.pdb",
+        "lib/MonoAndroid90/Xamarin.Forms.Core.dll",
+        "lib/MonoAndroid90/Xamarin.Forms.Core.pdb",
+        "lib/MonoAndroid90/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/Xamarin.Forms.Platform.Android.dll",
+        "lib/MonoAndroid90/Xamarin.Forms.Platform.Android.pdb",
+        "lib/MonoAndroid90/Xamarin.Forms.Platform.dll",
+        "lib/MonoAndroid90/Xamarin.Forms.Xaml.dll",
+        "lib/MonoAndroid90/Xamarin.Forms.Xaml.pdb",
+        "lib/MonoAndroid90/Xamarin.Forms.Xaml.xml",
         "lib/Xamarin.Mac/Design/Xamarin.Forms.Core.Design.dll",
         "lib/Xamarin.Mac/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/Xamarin.Mac/Xamarin.Forms.Core.dll",
@@ -1265,8 +1276,10 @@
         "lib/uap10.0/Design/Xamarin.Forms.Core.Design.dll",
         "lib/uap10.0/Design/Xamarin.Forms.Xaml.Design.dll",
         "lib/uap10.0/Xamarin.Forms.Core.dll",
+        "lib/uap10.0/Xamarin.Forms.Core.pdb",
         "lib/uap10.0/Xamarin.Forms.Core.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.dll",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP.pdb",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.pri",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/AutoSuggestStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCommandBarStyle.xbf",
@@ -1274,17 +1287,20 @@
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsFlyout.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsProgressBarStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsTextBoxStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Items/ItemsViewStyles.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/MasterDetailControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/PageControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Properties/Xamarin.Forms.Platform.UAP.rd.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Resources.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/SliderStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/StepperControl.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/TabbedPageStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Xamarin.Forms.Platform.UAP.xr.xml",
         "lib/uap10.0/Xamarin.Forms.Platform.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.dll",
+        "lib/uap10.0/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.3.3.0.967583.nupkg.sha512",
+        "xamarin.forms.3.6.0.264807.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -1308,39 +1324,37 @@
       "Xamarin.Android.Support.v7.AppCompat >= 27.0.2.1",
       "Xamarin.Android.Support.v7.CardView >= 27.0.2.1",
       "Xamarin.Android.Support.v7.MediaRouter >= 27.0.2.1",
-      "Xamarin.Forms >= 3.3.0.967583",
+      "Xamarin.Forms >= 3.6.0.264807",
       "sqlite-net-pcl >= 1.5.231"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\carlosdl\\.nuget\\packages\\": {}
+    "/Users/carlosdiaz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlosdl\\Documents\\Visual Studio 2017\\Projects\\TuxiTickets\\TuxiTickets\\TuxiTickets.Android\\TuxiTickets.Android.csproj",
+      "projectUniqueName": "/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.Android/TuxiTickets.Android.csproj",
       "projectName": "TuxiTickets.Android",
-      "projectPath": "C:\\Users\\carlosdl\\Documents\\Visual Studio 2017\\Projects\\TuxiTickets\\TuxiTickets\\TuxiTickets.Android\\TuxiTickets.Android.csproj",
-      "packagesPath": "C:\\Users\\carlosdl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlosdl\\Documents\\Visual Studio 2017\\Projects\\TuxiTickets\\TuxiTickets\\TuxiTickets.Android\\obj\\",
+      "projectPath": "/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.Android/TuxiTickets.Android.csproj",
+      "packagesPath": "/Users/carlosdiaz/.nuget/packages/",
+      "outputPath": "/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\carlosdl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/carlosdiaz/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid81"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\carlosdl\\Documents\\Visual Studio 2017\\Projects\\TuxiTickets\\TuxiTickets\\TuxiTickets\\TuxiTickets.csproj": {
-              "projectPath": "C:\\Users\\carlosdl\\Documents\\Visual Studio 2017\\Projects\\TuxiTickets\\TuxiTickets\\TuxiTickets\\TuxiTickets.csproj"
+            "/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.csproj": {
+              "projectPath": "/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.csproj"
             }
           }
         }
@@ -1395,7 +1409,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[3.3.0.967583, )"
+            "version": "[3.6.0.264807, )"
           },
           "sqlite-net-pcl": {
             "target": "Package",

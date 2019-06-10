@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "9d05d9c09622167f7c07cbde0598707fcb4d2a1e"
+    "signature": "286d33d4f597c50f0fd7e5d51823ceef68d00644"
   },
   "compilationOptions": {},
   "targets": {
@@ -16,7 +16,7 @@
           "Xam.Plugin.Geolocator": "4.5.0.6",
           "Xam.Plugins.Notifier": "3.0.1",
           "Xam.Plugins.Vibrate": "4.0.0.5",
-          "Xamarin.Forms": "3.3.0.967583",
+          "Xamarin.Forms": "3.6.0.264807",
           "sqlite-net-pcl": "1.5.231"
         },
         "runtime": {
@@ -127,7 +127,7 @@
           }
         }
       },
-      "Xamarin.Forms/3.3.0.967583": {
+      "Xamarin.Forms/3.6.0.264807": {
         "runtime": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
             "assemblyVersion": "2.0.0.0",
@@ -154,7 +154,7 @@
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "sha512-a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
       "path": "microsoft.netcore.platforms/1.1.0",
       "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
     },
@@ -228,12 +228,12 @@
       "path": "xam.plugins.vibrate/4.0.0.5",
       "hashPath": "xam.plugins.vibrate.4.0.0.5.nupkg.sha512"
     },
-    "Xamarin.Forms/3.3.0.967583": {
+    "Xamarin.Forms/3.6.0.264807": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-aebAEUHkER6WRo4WpsDd8jq4EudSl3WS4n7Pxcq8ea+x9fHi9PstCU0dU2D5PGvSeKa3yEFSpRljOEjI7qtsNA==",
-      "path": "xamarin.forms/3.3.0.967583",
-      "hashPath": "xamarin.forms.3.3.0.967583.nupkg.sha512"
+      "sha512": "sha512-T7gYS3PoGNtp6D7GAX7fF4QzR7NC36NNQSiuEb5TXO8rEqkZGwpC4u/6S62rH0wL3dabWNVpJPPnL5jZvWeoVg==",
+      "path": "xamarin.forms/3.6.0.264807",
+      "hashPath": "xamarin.forms.3.6.0.264807.nupkg.sha512"
     }
   }
 }

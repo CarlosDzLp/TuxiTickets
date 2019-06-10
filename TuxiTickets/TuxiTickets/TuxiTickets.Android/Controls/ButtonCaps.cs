@@ -25,6 +25,8 @@ namespace TuxiTickets.Droid.Controls
         {
             base.OnElementChanged(e);
             Control.SetAllCaps(false);
+            Control.Elevation = 10;
+           //Control.TranslationZ = 20;
         }
     }
 }

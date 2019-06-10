@@ -175,16 +175,19 @@
     <PackageReference Include="Xam.Plugins.Vibrate">
       <Version>4.0.0.5</Version>
     </PackageReference>
-    <PackageReference Include="Xamarin.Forms" Version="3.3.0.967583" />
+    <PackageReference Include="Xamarin.Forms" Version="3.6.0.264807" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\TuxiTickets\TuxiTickets.csproj">
-      <Project>{8040AA8A-A8DA-4F89-BCE5-8FE6184A81E5}</Project>
+      <Project>{CCF49D21-E204-41B9-8A93-5A69E9E503F3}</Project>
       <Name>TuxiTickets</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\logo.png" />
+    <BundleResource Include="Resources\facebook.png" />
+    <BundleResource Include="Resources\google.png" />
+    <BundleResource Include="Resources\outlook.png" />
   </ItemGroup>
 </Project>

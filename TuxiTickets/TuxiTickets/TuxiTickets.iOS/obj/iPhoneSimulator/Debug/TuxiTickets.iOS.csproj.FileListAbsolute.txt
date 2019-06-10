@@ -1,74 +1,79 @@
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\TuxiTickets.iOS.exe
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\TuxiTickets.iOS.pdb
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\BTProgressHUD.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\TTGSnackbar.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.pdb
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.pdb
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Plugin.Geolocator.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Plugin.LocalNotifications.Abstractions.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Plugin.LocalNotifications.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Plugin.Vibrate.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\TuxiTickets.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\bin\iPhoneSimulator\Debug\TuxiTickets.pdb
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\optimized\
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\TuxiTickets.iOS.csprojAssemblyReference.cache
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\TuxiTickets.iOS.csproj.CoreCompileInputs.cache
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\TuxiTickets.iOS.csproj.CopyComplete
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\TuxiTickets.iOS.exe
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets.iOS\obj\iPhoneSimulator\Debug\TuxiTickets.iOS.pdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/TuxiTickets.iOS.exe
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/TuxiTickets.iOS.pdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/BTProgressHUD.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Plugin.Permissions.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/SQLite-net.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/TTGSnackbar.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.pdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Plugin.LocalNotifications.Abstractions.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Plugin.LocalNotifications.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Plugin.Vibrate.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/TuxiTickets.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/TuxiTickets.pdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/bin/iPhoneSimulator/Debug/TuxiTickets.dll.mdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/optimized/logo.png
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/optimized/facebook.png
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/optimized/google.png
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/optimized/outlook.png
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/TuxiTickets.iOS.csprojAssemblyReference.cache
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/TuxiTickets.iOS.csproj.CoreCompileInputs.cache
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/TuxiTickets.iOS.csproj.CopyComplete
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/TuxiTickets.iOS.exe
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets.iOS/obj/iPhoneSimulator/Debug/TuxiTickets.iOS.pdb

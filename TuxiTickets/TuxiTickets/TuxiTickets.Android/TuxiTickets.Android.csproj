@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     <NuGetPackageImportStamp>
@@ -70,7 +69,7 @@
     <PackageReference Include="Xam.Plugins.Vibrate">
       <Version>4.0.0.5</Version>
     </PackageReference>
-    <PackageReference Include="Xamarin.Forms" Version="3.3.0.967583" />
+    <PackageReference Include="Xamarin.Forms" Version="3.6.0.264807" />
     <PackageReference Include="Xamarin.Android.Support.Design" Version="27.0.2.1" />
     <PackageReference Include="Xamarin.Android.Support.v7.AppCompat" Version="27.0.2.1" />
     <PackageReference Include="Xamarin.Android.Support.v4" Version="27.0.2.1" />
@@ -85,6 +84,7 @@
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Controls\CustomTabbedPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -108,6 +108,13 @@
     <AndroidResource Include="Resources\mipmap-xxhdpi\launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\drawable\facebook.png" />
+    <AndroidResource Include="Resources\drawable\google.png" />
+    <AndroidResource Include="Resources\drawable\outlook.png" />
+    <AndroidResource Include="Resources\drawable\ic_account.png" />
+    <AndroidResource Include="Resources\drawable\ic_map.png" />
+    <AndroidResource Include="Resources\drawable\ic_promotions.png" />
+    <AndroidResource Include="Resources\drawable\ic_save.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable-hdpi\" />
@@ -117,7 +124,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TuxiTickets\TuxiTickets.csproj">
-      <Project>{8040AA8A-A8DA-4F89-BCE5-8FE6184A81E5}</Project>
+      <Project>{CCF49D21-E204-41B9-8A93-5A69E9E503F3}</Project>
       <Name>TuxiTickets</Name>
     </ProjectReference>
   </ItemGroup>

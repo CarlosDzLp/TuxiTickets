@@ -1,12 +1,107 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="TuxiTickets.Views.Session.LoginPage">
+             x:Class="TuxiTickets.Views.Session.LoginPage"
+             BackgroundColor="White">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView>
+            <StackLayout
+                Spacing="10"
+                VerticalOptions="Center"
+                Padding="10"
+                Margin="20">
+                <Image
+                    Source="logo.png"
+                    WidthRequest="150"
+                    HeightRequest="150"/>
+                <Entry
+                    TextColor="Black"
+                    Text="{Binding Email}"
+                    Keyboard="Email"
+                    Placeholder="Correo"
+                    PlaceholderColor="Gray"/>
+                <Entry
+                    TextColor="Black"
+                    Text="{Binding Password}"
+                    Keyboard="Text"
+                    Placeholder="Contraseña"
+                    PlaceholderColor="Gray"
+                    IsPassword="true"/>
+                <Button
+                    Text="Iniciar Sesion"
+                    TextColor="White"
+                    BackgroundColor="#2ABF89"
+                    CornerRadius="8"
+                    Command="{Binding SignInCommand}"/>
+                <Frame
+                    Margin="0,20,0,0"
+                    CornerRadius="8"
+                    BackgroundColor="White"
+                    HasShadow="false"
+                    Padding="8"
+                    OutlineColor="Gray">
+                    <StackLayout
+                        VerticalOptions="Center"
+                        HorizontalOptions="Center"
+                        Orientation="Horizontal">
+                        <Image
+                            Source="facebook.png"
+                            WidthRequest="35"
+                            HeightRequest="35"/>
+                        <Label
+                            Margin="10,0,0,0"
+                            Text="Facebook"
+                            TextColor="Black"
+                            FontSize="Medium"
+                            VerticalTextAlignment="Center"/>
+                    </StackLayout>
+                </Frame>
+                <Frame
+                    CornerRadius="8"
+                    BackgroundColor="White"
+                    HasShadow="false"
+                    Padding="8"
+                    OutlineColor="Gray">
+                    <StackLayout
+                        VerticalOptions="Center"
+                        HorizontalOptions="Center"
+                        Orientation="Horizontal">
+                        <Image
+                            Source="google.png"
+                            WidthRequest="35"
+                            HeightRequest="35"/>
+                        <Label
+                            Margin="10,0,0,0"
+                            Text="Google"
+                            
+                            FontSize="Medium"
+                            TextColor="Black"
+                            VerticalTextAlignment="Center"/>
+                    </StackLayout>
+                </Frame>
+                <Frame
+                    CornerRadius="8"
+                    BackgroundColor="White"
+                    HasShadow="false"
+                    Padding="8"
+                    OutlineColor="Gray">
+                    <StackLayout
+                        VerticalOptions="Center"
+                        HorizontalOptions="Center"
+                        Orientation="Horizontal">
+                        <Image
+                            Source="outlook.png"
+                            WidthRequest="35"
+                            HeightRequest="35"/>
+                        <Label
+                            Margin="10,0,0,0"
+                            Text="Hotmail"
+                            TextColor="Black"
+                            FontSize="Medium"
+                            VerticalTextAlignment="Center"/>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Windows.Input;
 using TuxiTickets.ViewModels.Base;
+using Xamarin.Forms;
 
 namespace TuxiTickets.ViewModels.Session
 {
@@ -26,7 +28,25 @@ namespace TuxiTickets.ViewModels.Session
 
         public LoginPageViewModel()
         {
+            SignInCommand = new Command(SignInCommandExecuted);
+        }
+        #endregion
 
+        #region Command
+        public ICommand SignInCommand { get; set; }
+        #endregion
+
+        #region CommandExecuted
+        private void SignInCommandExecuted()
+        {
+            try
+            {
+                App.Current.MainPage = new Views.Principal.HomePage();
+            }
+            catch(Exception ex)
+            {
+                throw;
+            }
         }
         #endregion
     }

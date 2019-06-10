@@ -13,7 +13,7 @@
 namespace TuxiTickets.Views.Session {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\Session\\LoginPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views/Session/LoginPage.xaml")]
     public partial class LoginPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

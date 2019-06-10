@@ -1,11 +1,29 @@
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\bin\Debug\netstandard2.0\TuxiTickets.deps.json
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\bin\Debug\netstandard2.0\TuxiTickets.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\bin\Debug\netstandard2.0\TuxiTickets.pdb
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\Views\Session\LoginPage.xaml.g.cs
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\TuxiTickets.csproj.CoreCompileInputs.cache
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\TuxiTickets.AssemblyInfoInputs.cache
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\TuxiTickets.AssemblyInfo.cs
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\TuxiTickets.dll
-C:\Users\carlosdl\Documents\Visual Studio 2017\Projects\TuxiTickets\TuxiTickets\TuxiTickets\obj\Debug\netstandard2.0\TuxiTickets.pdb
+C:/Users/carlosdl/Documents/Visual Studio 2017/Projects/TuxiTickets/TuxiTickets/TuxiTickets/bin/Debug/netstandard2.0/TuxiTickets.deps.json
+C:/Users/carlosdl/Documents/Visual Studio 2017/Projects/TuxiTickets/TuxiTickets/TuxiTickets/bin/Debug/netstandard2.0/TuxiTickets.dll
+C:/Users/carlosdl/Documents/Visual Studio 2017/Projects/TuxiTickets/TuxiTickets/TuxiTickets/bin/Debug/netstandard2.0/TuxiTickets.pdb
+C:/Users/carlosdl/Documents/Visual Studio 2017/Projects/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/App.xaml.g.cs
+C:/Users/carlosdl/Documents/Visual Studio 2017/Projects/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/Views/Session/LoginPage.xaml.g.cs
+C:/Users/carlosdl/Documents/Visual Studio 2017/Projects/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/TuxiTickets.csproj.CoreCompileInputs.cache
+C:/Users/carlosdl/Documents/Visual Studio 2017/Projects/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/TuxiTickets.AssemblyInfoInputs.cache
+C:/Users/carlosdl/Documents/Visual Studio 2017/Projects/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/TuxiTickets.AssemblyInfo.cs
+C:/Users/carlosdl/Documents/Visual Studio 2017/Projects/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/XamlC.stamp
+C:/Users/carlosdl/Documents/Visual Studio 2017/Projects/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/TuxiTickets.dll
+C:/Users/carlosdl/Documents/Visual Studio 2017/Projects/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/TuxiTickets.pdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/bin/Debug/netstandard2.0/TuxiTickets.deps.json
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/bin/Debug/netstandard2.0/TuxiTickets.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/bin/Debug/netstandard2.0/TuxiTickets.pdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/Views/Principal/HomePage.xaml.g.cs
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/Views/Session/LoginPage.xaml.g.cs
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/TuxiTickets.csproj.CoreCompileInputs.cache
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/TuxiTickets.AssemblyInfoInputs.cache
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/TuxiTickets.AssemblyInfo.cs
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/TuxiTickets.dll
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/TuxiTickets.pdb
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/TuxiTickets.csprojAssemblyReference.cache
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/Views/Principal/AccountPage.xaml.g.cs
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/Views/Principal/MapPage.xaml.g.cs
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/Views/Principal/PromotionsPage.xaml.g.cs
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/Views/Principal/SavePage.xaml.g.cs
+/Users/carlosdiaz/TuxiTickets/TuxiTickets/TuxiTickets/TuxiTickets/obj/Debug/netstandard2.0/Views/Principal/MyCompanyPage.xaml.g.cs
